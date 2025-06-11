@@ -3,7 +3,6 @@
 
 
 
-npm run dev
 ```
 
 **Edit a file directly in GitHub**
