@@ -1,8 +1,5 @@
 # Welcome to my project
 
-
-
-
 Follow these steps:
 
 ```sh
