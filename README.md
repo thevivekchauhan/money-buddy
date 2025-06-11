@@ -2,7 +2,6 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/58932cdb-f26c-4a79-9669-01a9682f487f
 
 
 Follow these steps:
